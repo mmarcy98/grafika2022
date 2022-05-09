@@ -1,2 +1,2 @@
-# grafika2021
-Számítógépi Grafika 2021
+# grafika2022
+Számítógépi Grafika 2022
